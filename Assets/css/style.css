@@ -62,7 +62,7 @@ nav a:hover{
     width: 90%;
     height: (100vh-85px);
     display: flex;
-    margin: 0;
+    margin: 0 auto;
 }
 .image{
     width: 49%;}
